@@ -1,0 +1,92 @@
+* {
+    background-color: rgb(233, 251, 221);
+    text-align: center;
+}
+
+.cabecalho {
+    background-color: blueviolet;
+    padding: 20px;
+    text-decoration: none;
+    margin: 0px;
+}
+
+.cabecalho a {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+}
+
+#titulo {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: blueviolet;
+}
+
+#nome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paragrafo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#origem {
+    text-decoration: underline;
+}
+
+.habilidades {
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+.js {
+    color: 
+}
+
+.node {
+    color: brown
+}
+
+.css {
+    color: red
+}
+
+.html {
+    color: green
+}
+
+.java {
+    color: purple
+}
+
+.comunica {
+    color: blueviolet
+}
+
+.empatia {
+    color: lightcoral
+}
+
+.esforco {
+    color: chocolate;
+}
+
+.profi {
+    color: cornflowerblue;
+}   
+
+.rodape {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.rodape a {
+    color: white;
+    text-decoration: none;
+    background-color: blueviolet;
+}
