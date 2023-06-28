@@ -1,13 +1,39 @@
 * {
-    background-color: rgb(233, 251, 221);
-    text-align: center;
+    background-color: rgb(233, 251, 221)
+}
+
+body {
+    padding: 2%;
 }
 
 .cabecalho {
     background-color: blueviolet;
     padding: 20px;
     text-decoration: none;
-    margin: 0px;
+    margin-top: 0;
+}
+
+#nome {
+    text-align: center;
+}
+
+.bloco1-2 {
+    height: 320px;
+    position: relative;
+}
+
+#minha_foto {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+
+.paragrafo {
+    position: absolute;
+    top: 35%;
+    right: 30%;
 }
 
 .cabecalho a {
@@ -34,16 +60,20 @@
 
 #origem {
     text-decoration: underline;
+    color: black
 }
 
 .habilidades {
-    font-size: 18px;
-    text-decoration: none;
-    
+  font-size: 18px;
+  text-decoration: none
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
 }
 
 .js {
-    color: 
+    color: yellowgreen
 }
 
 .node {
